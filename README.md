@@ -32,6 +32,7 @@
 | ☕ [Coffee-sales-analysis](https://github.com/ashwinshende/Coffee-sales-analysis) | Sales insights and performance visualization for coffee business | Python, Excel, Seaborn |
 | 🎬 [MAVEN-RENTAL-MOVIES-ANALYSIS](https://github.com/ashwinshende/MAVEN-RENTAL-MOVIES-ANALYSIS) | SQL-based movie rental insights and database exploration | MySQL, SQL Queries |
 | 🚗 [Indian_Car_Dataset_Analysis](https://github.com/ashwinshende/Indian_Car_Dataset_Analysis) | Exploratory data analysis of Indian car market | Python, Pandas, Seaborn |
+| 📱 [PhonePe-Analytics-Dashboard](https://github.com/ashwinshende/phonepe-analytics-dashboard) | Multi-dashboard Power BI project covering Insurance, Loans, Money Transfers & Recharge Bills analytics | Power BI, Data Modeling, DAX |
 
 ---
 
